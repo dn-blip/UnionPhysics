@@ -9,7 +9,8 @@ However, these <i>will obviously<i> take time to implement, so please bear with 
 ## Features (0 out of )
 > [!NOTE]
 > Things marked with an asterisk * are implemented, things with ! are experimental, and things with an ? are not implemented yet.
+> A double question mark (??) represents things that are going to be in a much later version.
 - Linear Dynamics (?)
-- Non-linear Dynamics rotation, torque (?)
+- Non-linear Dynamics (rotation, torque, etc..) (?)
 - CCD (?)
-- Custom surfaces
+- Custom, user-defined surfaces (??)
