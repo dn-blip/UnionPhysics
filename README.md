@@ -6,7 +6,7 @@ UnionPhysics is a general-purpose physics engine meant for UnionSDK, a meta-proj
 "scientific software" (in the broadest sense). Each project is meant to be easy to use with either C or C++, while sharing the core headers.
 However, these <i>will obviously<i> take time to implement, so please bear with me if you see some blank repos.
 
-## Features (0 out of )
+## Features (0 out of 4 done)
 > [!NOTE]
 > Things marked with an asterisk * are implemented, things with ! are experimental, and things with an ? are not implemented yet.
 > A double question mark (??) represents things that are going to be in a much later version.
